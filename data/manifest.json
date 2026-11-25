@@ -1,0 +1,444 @@
+{
+  "packs": [
+    {
+      "id": "afr-deu",
+      "label": "afr-deu",
+      "file": "./data/afr-deu.json"
+    },
+    {
+      "id": "afr-eng",
+      "label": "afr-eng",
+      "file": "./data/afr-eng.json"
+    },
+    {
+      "id": "ara-eng",
+      "label": "ara-eng",
+      "file": "./data/ara-eng.json"
+    },
+    {
+      "id": "bel-fra",
+      "label": "bel-fra",
+      "file": "./data/bel-fra.json"
+    },
+    {
+      "id": "bre-fra",
+      "label": "bre-fra",
+      "file": "./data/bre-fra.json"
+    },
+    {
+      "id": "ces-eng",
+      "label": "ces-eng",
+      "file": "./data/ces-eng.json"
+    },
+    {
+      "id": "ckb-kmr",
+      "label": "ckb-kmr",
+      "file": "./data/ckb-kmr.json"
+    },
+    {
+      "id": "cym-eng",
+      "label": "cym-eng",
+      "file": "./data/cym-eng.json"
+    },
+    {
+      "id": "dan-eng",
+      "label": "dan-eng",
+      "file": "./data/dan-eng.json"
+    },
+    {
+      "id": "deu-eng",
+      "label": "deu-eng",
+      "file": "./data/deu-eng.json"
+    },
+    {
+      "id": "deu-fra",
+      "label": "deu-fra",
+      "file": "./data/deu-fra.json"
+    },
+    {
+      "id": "deu-ita",
+      "label": "deu-ita",
+      "file": "./data/deu-ita.json"
+    },
+    {
+      "id": "deu-kur",
+      "label": "deu-kur",
+      "file": "./data/deu-kur.json"
+    },
+    {
+      "id": "deu-nld",
+      "label": "deu-nld",
+      "file": "./data/deu-nld.json"
+    },
+    {
+      "id": "deu-por",
+      "label": "deu-por",
+      "file": "./data/deu-por.json"
+    },
+    {
+      "id": "deu-swe",
+      "label": "deu-swe",
+      "file": "./data/deu-swe.json"
+    },
+    {
+      "id": "deu-tur",
+      "label": "deu-tur",
+      "file": "./data/deu-tur.json"
+    },
+    {
+      "id": "eng-afr",
+      "label": "eng-afr",
+      "file": "./data/eng-afr.json"
+    },
+    {
+      "id": "eng-ara",
+      "label": "eng-ara",
+      "file": "./data/eng-ara.json"
+    },
+    {
+      "id": "eng-ces",
+      "label": "eng-ces",
+      "file": "./data/eng-ces.json"
+    },
+    {
+      "id": "eng-cym",
+      "label": "eng-cym",
+      "file": "./data/eng-cym.json"
+    },
+    {
+      "id": "eng-deu",
+      "label": "eng-deu",
+      "file": "./data/eng-deu.json"
+    },
+    {
+      "id": "eng-ell",
+      "label": "eng-ell",
+      "file": "./data/eng-ell.json"
+    },
+    {
+      "id": "eng-fra",
+      "label": "eng-fra",
+      "file": "./data/eng-fra.json"
+    },
+    {
+      "id": "eng-gle",
+      "label": "eng-gle",
+      "file": "./data/eng-gle.json"
+    },
+    {
+      "id": "eng-hin",
+      "label": "eng-hin",
+      "file": "./data/eng-hin.json"
+    },
+    {
+      "id": "eng-hrv",
+      "label": "eng-hrv",
+      "file": "./data/eng-hrv.json"
+    },
+    {
+      "id": "eng-ita",
+      "label": "eng-ita",
+      "file": "./data/eng-ita.json"
+    },
+    {
+      "id": "eng-lat",
+      "label": "eng-lat",
+      "file": "./data/eng-lat.json"
+    },
+    {
+      "id": "eng-lit",
+      "label": "eng-lit",
+      "file": "./data/eng-lit.json"
+    },
+    {
+      "id": "eng-nld",
+      "label": "eng-nld",
+      "file": "./data/eng-nld.json"
+    },
+    {
+      "id": "eng-pol",
+      "label": "eng-pol",
+      "file": "./data/eng-pol.json"
+    },
+    {
+      "id": "eng-por",
+      "label": "eng-por",
+      "file": "./data/eng-por.json"
+    },
+    {
+      "id": "eng-rom",
+      "label": "eng-rom",
+      "file": "./data/eng-rom.json"
+    },
+    {
+      "id": "eng-rus",
+      "label": "eng-rus",
+      "file": "./data/eng-rus.json"
+    },
+    {
+      "id": "eng-spa",
+      "label": "eng-spa",
+      "file": "./data/eng-spa.json"
+    },
+    {
+      "id": "eng-srp",
+      "label": "eng-srp",
+      "file": "./data/eng-srp.json"
+    },
+    {
+      "id": "eng-swe",
+      "label": "eng-swe",
+      "file": "./data/eng-swe.json"
+    },
+    {
+      "id": "eng-swh",
+      "label": "eng-swh",
+      "file": "./data/eng-swh.json"
+    },
+    {
+      "id": "eng-tur",
+      "label": "eng-tur",
+      "file": "./data/eng-tur.json"
+    },
+    {
+      "id": "eng-tur_P4",
+      "label": "eng-tur_P4",
+      "file": "./data/eng-tur_P4.json"
+    },
+    {
+      "id": "fra-bre",
+      "label": "fra-bre",
+      "file": "./data/fra-bre.json"
+    },
+    {
+      "id": "fra-deu",
+      "label": "fra-deu",
+      "file": "./data/fra-deu.json"
+    },
+    {
+      "id": "fra-eng",
+      "label": "fra-eng",
+      "file": "./data/fra-eng.json"
+    },
+    {
+      "id": "fra-nld",
+      "label": "fra-nld",
+      "file": "./data/fra-nld.json"
+    },
+    {
+      "id": "gla-deu",
+      "label": "gla-deu",
+      "file": "./data/gla-deu.json"
+    },
+    {
+      "id": "gle-eng",
+      "label": "gle-eng",
+      "file": "./data/gle-eng.json"
+    },
+    {
+      "id": "gle-pol",
+      "label": "gle-pol",
+      "file": "./data/gle-pol.json"
+    },
+    {
+      "id": "hrv-eng",
+      "label": "hrv-eng",
+      "file": "./data/hrv-eng.json"
+    },
+    {
+      "id": "isl-eng",
+      "label": "isl-eng",
+      "file": "./data/isl-eng.json"
+    },
+    {
+      "id": "ita-deu",
+      "label": "ita-deu",
+      "file": "./data/ita-deu.json"
+    },
+    {
+      "id": "ita-eng",
+      "label": "ita-eng",
+      "file": "./data/ita-eng.json"
+    },
+    {
+      "id": "jpn-deu",
+      "label": "jpn-deu",
+      "file": "./data/jpn-deu.json"
+    },
+    {
+      "id": "jpn-eng",
+      "label": "jpn-eng",
+      "file": "./data/jpn-eng.json"
+    },
+    {
+      "id": "jpn-fra",
+      "label": "jpn-fra",
+      "file": "./data/jpn-fra.json"
+    },
+    {
+      "id": "jpn-rus",
+      "label": "jpn-rus",
+      "file": "./data/jpn-rus.json"
+    },
+    {
+      "id": "kha-deu",
+      "label": "kha-deu",
+      "file": "./data/kha-deu.json"
+    },
+    {
+      "id": "kha-eng",
+      "label": "kha-eng",
+      "file": "./data/kha-eng.json"
+    },
+    {
+      "id": "kur-deu",
+      "label": "kur-deu",
+      "file": "./data/kur-deu.json"
+    },
+    {
+      "id": "kur-eng",
+      "label": "kur-eng",
+      "file": "./data/kur-eng.json"
+    },
+    {
+      "id": "kur-tur",
+      "label": "kur-tur",
+      "file": "./data/kur-tur.json"
+    },
+    {
+      "id": "la1-la2.template",
+      "label": "la1-la2.template",
+      "file": "./data/la1-la2.template.json"
+    },
+    {
+      "id": "lat-deu",
+      "label": "lat-deu",
+      "file": "./data/lat-deu.json"
+    },
+    {
+      "id": "lat-eng",
+      "label": "lat-eng",
+      "file": "./data/lat-eng.json"
+    },
+    {
+      "id": "lg1-lg2",
+      "label": "lg1-lg2",
+      "file": "./data/lg1-lg2.json"
+    },
+    {
+      "id": "lit-eng",
+      "label": "lit-eng",
+      "file": "./data/lit-eng.json"
+    },
+    {
+      "id": "mkd-bul",
+      "label": "mkd-bul",
+      "file": "./data/mkd-bul.json"
+    },
+    {
+      "id": "nld-deu",
+      "label": "nld-deu",
+      "file": "./data/nld-deu.json"
+    },
+    {
+      "id": "nld-eng",
+      "label": "nld-eng",
+      "file": "./data/nld-eng.json"
+    },
+    {
+      "id": "nld-fra",
+      "label": "nld-fra",
+      "file": "./data/nld-fra.json"
+    },
+    {
+      "id": "nno-nob",
+      "label": "nno-nob",
+      "file": "./data/nno-nob.json"
+    },
+    {
+      "id": "oci-cat",
+      "label": "oci-cat",
+      "file": "./data/oci-cat.json"
+    },
+    {
+      "id": "pol-gle",
+      "label": "pol-gle",
+      "file": "./data/pol-gle.json"
+    },
+    {
+      "id": "por-deu",
+      "label": "por-deu",
+      "file": "./data/por-deu.json"
+    },
+    {
+      "id": "por-eng",
+      "label": "por-eng",
+      "file": "./data/por-eng.json"
+    },
+    {
+      "id": "san-deu",
+      "label": "san-deu",
+      "file": "./data/san-deu.json"
+    },
+    {
+      "id": "slk-eng",
+      "label": "slk-eng",
+      "file": "./data/slk-eng.json"
+    },
+    {
+      "id": "spa-ast",
+      "label": "spa-ast",
+      "file": "./data/spa-ast.json"
+    },
+    {
+      "id": "spa-eng",
+      "label": "spa-eng",
+      "file": "./data/spa-eng.json"
+    },
+    {
+      "id": "spa-por",
+      "label": "spa-por",
+      "file": "./data/spa-por.json"
+    },
+    {
+      "id": "srp-eng",
+      "label": "srp-eng",
+      "file": "./data/srp-eng.json"
+    },
+    {
+      "id": "swe-deu",
+      "label": "swe-deu",
+      "file": "./data/swe-deu.json"
+    },
+    {
+      "id": "swe-eng",
+      "label": "swe-eng",
+      "file": "./data/swe-eng.json"
+    },
+    {
+      "id": "swh-eng",
+      "label": "swh-eng",
+      "file": "./data/swh-eng.json"
+    },
+    {
+      "id": "swh-pol",
+      "label": "swh-pol",
+      "file": "./data/swh-pol.json"
+    },
+    {
+      "id": "tur-deu",
+      "label": "tur-deu",
+      "file": "./data/tur-deu.json"
+    },
+    {
+      "id": "tur-eng",
+      "label": "tur-eng",
+      "file": "./data/tur-eng.json"
+    },
+    {
+      "id": "wol-fra",
+      "label": "wol-fra",
+      "file": "./data/wol-fra.json"
+    }
+  ]
+}
